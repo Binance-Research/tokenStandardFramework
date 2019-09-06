@@ -1,9 +1,8 @@
-﻿
-# Blockchain-Based Token Standard Framework (initial draft by Binance Research)
+﻿# Blockchain-Based Token Standard Framework 
 
-Following [our recent report on tokenization](https://info.binance.com/en/research/marketresearch/tokenization.html), we decided to develop a simple framework to evaluate blockchain tokens based on both the underlying source code and its technological implementation.
+This document introduces a standard framework aims to evaluate blockchain tokens based on both the **underlying source code and its technological implementation**.
 
-The first section introduces the framework and its set of criteria. The second segment applies this framework to a set of existing blockchain-based tokens. 
+The first section explains the framework and its set of criteria. The second segment applies this framework to a set of existing blockchain-based tokens. 
 
 ## 1. Framework definition
 
