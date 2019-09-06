@@ -9,13 +9,11 @@ Following [our recent report on tokenization](https://info.binance.com/en/resear
 
 Specifically, this framework attempts to evaluate these tokens based on both **the underlying source code and their technological implementation.** <br>
 
-Any contributor can contribute to this framework by submitting pull requests. <br>
+Any contributor can contribute to this framework by submitting **pull requests** and **all your contributions will be reviewed** and potentially incorporated (if relevant).
 
-All your contributions will be reviewed and incorporated (if relevant).
-
-Please find the existing draft at the link below:
+Please find the existing draft at the link below: <br>
 https://github.com/Binance-Research/tokenStandardFramework/blob/master/description.md
 
-Collaborators:
+**Collaborators:**
 - [Binance Research](https://research.binance.com/)
 
