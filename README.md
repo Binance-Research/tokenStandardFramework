@@ -1,4 +1,4 @@
-# Welcome
+# Introduction
 
 ![tokenFrameword](https://raw.githubusercontent.com/Binance-Research/tokenStandardFramework/master/tokenFramework.png)
 
@@ -13,7 +13,9 @@ Any contributor can contribute to this framework by submitting pull requests. <b
 
 All your contributions will be reviewed and incorporated (if relevant).
 
-Please find the existing draft at the link below.
+Please find the existing draft at the link below:
+https://github.com/Binance-Research/tokenStandardFramework/blob/master/description.md
 
-https://github.com/Binance-Research/tokenStandardFramework/description.md
+Collaborators:
+- [Binance Research](https://research.binance.com/)
 
