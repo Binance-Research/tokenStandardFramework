@@ -6,15 +6,15 @@ The first section explains the framework and its set of criteria. The second seg
 
 ## 1. Framework definition
 
-This subsection discusses and introduces a multi-criteria framework to analyze and distinguish tokens based on both the underlying source code and its technological implementation.
+This subsection discusses and introduces a multi-criteria standard framework to analyze and distinguish tokens based on both the underlying source code and its technological implementation.
 
-### (1) Blockchain(s) and layer(s)
+### (1) Blockchain(s) and Layer(s)
 
 The first element refers to the blockchain(s) where the token is issued. As an example, USD Coin (USDC) is an asset, running solely on the Ethereum blockchain.
 
 Conversely, some assets exist on multiple blockchains. USD Tether runs on four different networks: Bitcoin (through the Omni layer), EOS, Ethereum, and Tron. Similarly, Binance GBP Stablecoin (BGBP) runs on both Ethereum and Binance Chain.
 
-Furthermore, tokens may exist on first or second layer.
+Furthermore, tokens can be issued on first and second layer.
 
 Examples of first-layer tokens include USDC (on Ethereum) or BTT (on Tron), while second-layer tokens include USDH (on the Simple Ledger Protocol, running on Bitcoin Cash) and USDT (running on the Omni layer, built on Bitcoin).  
 
@@ -156,7 +156,7 @@ In this section, six tokens are randomly selected and analyzed through the lens 
 
 -   Privacy: No
     
--   Additional functions: TODO
+-   Additional functions: No
     
 
 ### 2.5 Mithril (MITH)
