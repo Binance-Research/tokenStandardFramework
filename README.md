@@ -1,8 +1,12 @@
-# Welcome to the Blockchain-Based Token Standard Framework repository
+# Welcome
+
+![tokenFrameword](https://raw.githubusercontent.com/Binance-Research/tokenStandardFramework/master/tokenFramework.png)
+
 
 🚧 Note: WIP 🚧
 
-This collaborative repository  aims to define **a standard evaluation framework for blockchain-based tokens.** <br>
+Following [our recent report on tokenization](https://info.binance.com/en/research/marketresearch/tokenization.html), we (the Binance Research team) decided to start developing a **standard framework to evaluate blockchain-based tokens**. <br>
+
 Specifically, this framework attempts to evaluate these tokens based on both **the underlying source code and their technological implementation.** <br>
 
 Any contributor can contribute to this framework by submitting pull requests. <br>
